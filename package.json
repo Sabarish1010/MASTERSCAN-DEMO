@@ -1,0 +1,12 @@
+{
+  "name": "masterscan-report-management",
+  "version": "1.0.0",
+  "description": "Masterscan NDT Report Management App",
+  "scripts": {
+    "start": "python3 -m http.server 8080 || npx -y http-server -p 8080 || php -S localhost:8080",
+    "dev": "python3 -m http.server 8080 || npx -y http-server -p 8080 || php -S localhost:8080"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
